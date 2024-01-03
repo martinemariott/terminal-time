@@ -1,4 +1,5 @@
 echo `date`
-echo Welcome `whoami`
+echo Welcome `whoami`to `hostname`
+
 
 
